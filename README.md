@@ -1,4 +1,4 @@
-# Project to learn the basics of Bootsrap 5
+# Project to learn the basics of Bootstrap 5
 
 ## How to install locally:
 
