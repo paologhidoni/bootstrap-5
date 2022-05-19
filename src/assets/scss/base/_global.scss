@@ -1,3 +1,9 @@
+body::before {
+    display: block;
+    content: "";
+    height: 72px;
+}
+
 /* On medium screens */
 @media screen and (min-width: 768px){
     .news-input {
