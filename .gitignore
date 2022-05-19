@@ -13,8 +13,10 @@ node_modules/
 
 # Distribution / packaging
 build/
+dist/
 downloads/
 .parcel-cache/
+coverage/
 
 # Environments
 .env
