@@ -2,7 +2,8 @@
 
 ## How to install locally:
 
-`npm run install`
+* Run `npm install` to install all dependencies.
+* Run `npm run dev` to start local server.
 
 ## Packages used:
 
